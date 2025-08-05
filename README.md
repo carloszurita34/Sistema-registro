@@ -5,6 +5,9 @@
 
 ```npm install react```
 
+sitema de registro 2
+actualiza el sistema
+
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
